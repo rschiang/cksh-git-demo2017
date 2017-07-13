@@ -7,5 +7,6 @@ int main() {
       cout << “O”;
     cout << endl;
   }
+  cout << “學號：09930334” << endl;
   return 0;
 }
