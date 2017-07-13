@@ -8,5 +8,6 @@ int main() {
     cout << endl;
   }
   cout << “學號：09930334” << endl;
+  cout << "您蒸蚌！(・ω・)" << endl;
   return 0;
 }
